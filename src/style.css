@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.carta {
+  height: 400px;
+  width: 250px;
+  box-sizing: content-box;
+}
+.cifras {
+  font-size: 70px;
+}
+#palo2 {
+  transform: rotate(180deg);
+}
